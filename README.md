@@ -13,7 +13,7 @@
 
 *porgramacion aplicada*
 
-**grupo 055-10**
+**grupo 055-1**
 
 **_python_**
 
